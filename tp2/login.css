@@ -8,6 +8,10 @@ body {
     background-attachment: fixed;
 }
 
+
+/* quiero centrar el cuadro de login en el centro de la pagina
+pero no me deja salvo que ponga margen :c */
+
 .contenedorLogin {
     margin-top: 10em;
     display: flex;
