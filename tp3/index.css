@@ -1,0 +1,15 @@
+.col-content {
+    margin: 1px auto;
+}
+
+.col-content:hover {
+    transform: rotatez(0.5deg);
+}
+
+.logo {
+    height: 50px !important;
+    margin-left: 30px;
+}
+
+
+/* puse important para poder pisar la altura del logo por defecto */
